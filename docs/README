@@ -1,0 +1,11 @@
+# RandomNameGenerator
+
+This is an overengineered random name generator.
+
+## Usage
+
+```python
+from src import NameGenerator
+
+name_generator = NameGenerator()
+print(name_generator.generate())

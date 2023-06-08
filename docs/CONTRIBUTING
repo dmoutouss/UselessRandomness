@@ -1,0 +1,15 @@
+#### `docs/CONTRIBUTING.md`
+```markdown
+# Contributing to RandomNameGenerator
+
+We appreciate all contributions. If you're unsure about anything, just ask -- or submit the issue or pull request anyway. We prefer to see incomplete contributions rather than no contribution at all.
+
+## Code of Conduct
+
+Please respect the [Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/) in all your interactions with the project members.
+
+## Submitting a Pull Request
+
+1. Fork the repository.
+2. Create a new branch for each feature or improvement.
+3. Send a pull request from each feature branch to the develop branch.
